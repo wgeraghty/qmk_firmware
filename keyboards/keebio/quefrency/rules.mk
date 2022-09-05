@@ -15,3 +15,7 @@ SPLIT_KEYBOARD = yes
 
 DEFAULT_FOLDER = keebio/quefrency/rev1
 LTO_ENABLE = yes
+
+CAPS_WORD_ENABLE = yes
+
+DYNAMIC_MACRO_ENABLE = yes
